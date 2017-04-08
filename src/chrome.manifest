@@ -1,0 +1,3 @@
+override chrome://browser/content/abouthome/aboutHome.css chrome://abouthome/skin/abouthome.css
+
+skin	abouthome	classic/1.0	skin/
