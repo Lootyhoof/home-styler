@@ -1,5 +1,10 @@
 # Changelog
 
+### 2.1.0
+- remove Basilisk support
+- support Pale Moon 30
+- use non-prefixed CSS stylings
+
 ### 2.0.0
 - add Basilisk support
 - no longer a bootstrap extension
