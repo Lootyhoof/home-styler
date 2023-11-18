@@ -1,5 +1,10 @@
 # Changelog
 
+### 2.1.1
+- restore Basilisk support
+- sync abouthome.css with upstream
+- support Pale Moon 33
+
 ### 2.1.0
 - remove Basilisk support
 - support Pale Moon 30
